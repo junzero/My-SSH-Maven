@@ -1,0 +1,6 @@
+1.oracle 的 驱动（第三方 数据库连接驱动）maven中央仓库都没有  ！可以选择 添加第三方仓库
+或者  http://www.cnblogs.com/leiOOlei/archive/2013/10/21/3380568.html（本地安装）
+或者   私服
+
+
+2.完善工程 ！   注释，配置，等  整理  （测试 成功 oracle）
